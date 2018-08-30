@@ -1,0 +1,22 @@
+video{
+	margin:auto;
+	width:100%;
+	height:100%;
+
+}
+h1,h3{
+	margin:0px;
+	padding:0px;
+}
+img{
+	width:100%;
+	height:100%;
+}
+.foto{
+	width:50%;
+	height:50%;
+}
+.internet{
+	width:100%;
+	height:100%;
+}
